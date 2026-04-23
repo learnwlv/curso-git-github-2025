@@ -1,2 +1,5 @@
 Este arquivo contem informações adicionais para git
 adicionando uma etapa
+
+# comandos mais genéricos
+- comandos estranhos
