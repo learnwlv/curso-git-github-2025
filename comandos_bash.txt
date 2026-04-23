@@ -5,4 +5,4 @@ pwd: caminho absoluto de onde estou (no caso indica onde está a navegação)
 mkdir: criar uma pasta (diretório)
 cat: exibe oque está escrito no arquivo
 rm: remove arquivo ou diretório
-rm -rf -> remove de forma recursiva e forçada todos os diretorios
+rm -rf -> remove de forma recursiva e forçada todos os diretórios
