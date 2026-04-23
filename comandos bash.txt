@@ -1,0 +1,5 @@
+ls: lista oque existe no diretório
+ls -a: lista arquivos ocultos no diretorio
+cd: muda de diretório, eu uso para andar nos diretorios
+pwd: caminho absoluto de onde estou (no caso indica onde está a navegação)
+mkdir: criar uma pasta (diretório)
