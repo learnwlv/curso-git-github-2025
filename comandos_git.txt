@@ -1,8 +1,8 @@
-git init .           -> CRIA UM REPO GIT NA PASTA ATUAL
-git status           -> MOSTRA STATUS DO TRABALHO
+git init . -> CRIA UM REPO GIT NA PASTA ATUAL
+git status -> MOSTRA STATUS DO TRABALHO
 git add nome_arquivo -> ADICIONA ARQUIVO 
-git commit -m "msg"  -> FAZ COMMIT DO QUE ESTÁ PARA SER COMITADO
-git log              -> para ver histórico de commit
-git dif              -> para ver as modificações que foram feitas/acusadas
+git commit -m "msg" -> FAZ COMMIT DO QUE ESTÁ PARA SER COMITADO
+git log -> para ver histórico de commit
+git dif -> para ver as modificações que foram feitas/acusadas
 
-inicio aula EP 03 - Lidando com Branches OU LANCHES? (FAZENDO TESTES DA AULA)
+inicio aula EP 03 - Lidando com Branches
