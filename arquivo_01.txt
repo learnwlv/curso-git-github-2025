@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 aqui é só um arquivo de teste, Pro Secundário 01 A ALTERAÇÃO DEVE ESTAR NESSA LINHA
 agora eu adicionei uma linha
 preciso fazer mudanças nessa linha para testar conflito
