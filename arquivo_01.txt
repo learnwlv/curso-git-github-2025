@@ -1,4 +1,4 @@
 aqui é só um arquivo de teste pro secundário 01
 agora eu adicionei uma linha
-
+preciso fazer mudanças nessa linha para testar conflito
 LINHA DE TESTE, QUE DOIDERA ESSE CURSO
