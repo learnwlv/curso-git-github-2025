@@ -7,6 +7,7 @@ Iniciando o curso para trabalhar com versionamento  de código e repositórios r
 
 Além disso, vamos também trabalhar com GitFlow ao final do Curso e Visual Studio Code.
 
+Testando se mudanças aqui ocasionarão conflitos. (HOUVE CONFLITO)
 ----
 
 Ainda aprendendo, mas há duvidas.
